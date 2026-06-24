@@ -116,8 +116,7 @@ Status: ✅ Completed
 - Grouping/Ungrouping
 - Subtotals
 
-Status: ⏳ In Progress
-
+Status: ✅ Completed
 ---
 
 ## ⏳ Section 3: Power Query Based Wrangling
