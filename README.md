@@ -44,7 +44,7 @@ Status: ✅ Completed
 
 ---
 
-## ⏳ Section 2: Excel-Based Data Wrangling
+## ✅ Section 2: Excel-Based Data Wrangling
 
 ### Data Cleaning
 - Trim
@@ -119,7 +119,7 @@ Status: ✅ Completed
 Status: ✅ Completed
 ---
 
-## ⏳ Section 3: Power Query Based Wrangling
+## ✅ Section 3: Power Query Based Wrangling
 
 ### Importing Data
 
@@ -145,7 +145,7 @@ Status: ✅ Completed
 - Query Steps
 - Applied Steps
 
-Status: ⏳ Pending
+Status: ✅ Completed
 
 ---
 
