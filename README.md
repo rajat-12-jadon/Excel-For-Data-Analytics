@@ -1,4 +1,4 @@
-# Excel for Data Analytics 📊
+# 📊 Microsoft Excel for Data Analytics
 
 This repository documents my journey of learning Microsoft Excel for Data Analytics, Data Cleaning, Reporting, Dashboarding, and Business Intelligence.
 
@@ -10,6 +10,16 @@ This repository documents my journey of learning Microsoft Excel for Data Analyt
 - Currently Learning: Excel → SQL → Power BI
 
 ---
+
+## 🛠️ Tools & Skills
+
+- Microsoft Excel 2021
+- Power Query
+- Power Pivot
+- DAX (Data Analysis Expressions)
+- Pivot Tables & Dashboards
+- Data Cleaning & Wrangling
+
 
 # Course Progress
 
@@ -149,7 +159,7 @@ Status: ✅ Completed
 
 ---
 
-## ⏳ Section 4: Data Modeling & DAX with Power Pivot
+## ✅ Section 4: Data Modeling & DAX with Power Pivot
 
 ### Data Modeling
 - Relationships Between Tables
@@ -198,7 +208,7 @@ Status: ✅ Completed
 
 ---
 
-## ⏳ Section 5: Analyzing & Visualizing with Pivot Tables
+## ✅ Section 5: Analyzing & Visualizing with Pivot Tables
 
 ### Excel Analysis Tools
 - Freezing Panes
@@ -240,7 +250,7 @@ Status: ✅ Completed
   - Dropdowns
   - Checkboxes
 
-Status: ⏳ Pending
+Status: ✅ Completed
 
 ---
 
@@ -260,17 +270,50 @@ Excel-Learning-Journey/
 
 ---
 
-# Learning Goal
+## 📂 Work Included
 
-Build strong Excel skills for:
+Each section contains:
+
+- 📘 Detailed Notes
+- 📊 Excel Workbook
+
+## 🎯 Learning Objectives
+
+This repository demonstrates my hands-on learning of Microsoft Excel for Data Analytics by covering:
 
 - Data Cleaning
-- Data Analysis
-- Reporting
-- Dashboarding
+- Data Wrangling
+- Power Query
+- Data Modeling
+- DAX
+- Pivot Tables
+- Dashboard Design
 - Business Intelligence
-- Data Analyst Roles
 
 ---
 
-⭐ Consistently learning and documenting my progress in Excel.
+## 🚀 Next Learning Path
+
+- ✅ Microsoft Excel
+- 🔄 SQL
+- ⏳ Power BI
+
+---
+
+## ✨ Repository Features
+
+- Beginner-friendly notes
+- Practical Excel workbooks
+- Hands-on datasets
+- Dashboard examples
+- Power Query transformations
+- Power Pivot & DAX models
+- Interactive Pivot Tables
+
+---
+
+## 🌟 About This Repository
+
+This repository is a collection of my Excel learning journey, covering everything from basic spreadsheet operations to advanced data modeling, Power Query, DAX, and interactive dashboards. It serves as both a study resource and a portfolio demonstrating practical Excel skills for Data Analytics.
+
+If you find this repository helpful, feel free to ⭐ star it!
